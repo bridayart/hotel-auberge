@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 60f5b9762684d4c5a831f09a11cbcdd0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Shelf_Texture
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Wall shelves
+    7400000: Wall shelves|Alcove Ceeling|Take 001|Layer 001
+    7400002: Wall shelves|Bowls|Take 001|Layer 001
+    7400004: Wall shelves|Box outline|Take 001|Layer 001
+    7400006: Wall shelves|Box outline|Take 001|Layer 001.001
+    7400008: Wall shelves|Box outline|Take 001|Layer 001.002
+    7400010: Wall shelves|Camera.001|Take 001|Layer 001
+    7400012: Wall shelves|Camera.001|Take 001|Layer 001.001
+    7400014: Wall shelves|Camera.001|Take 001|Layer 001.002
+    7400016: Wall shelves|Camera.001|Take 001|Layer 001.003
+    7400018: Wall shelves|Camera.001|Take 001|Layer 001.004
+    7400020: Wall shelves|Camera.002|Take 001|Layer 001
+    7400022: Wall shelves|CameraAction
+    7400024: Wall shelves|Camera|Take 001|Layer 001
+    7400026: Wall shelves|Camera|Take 001|Layer 001.001
+    7400028: Wall shelves|Ceeling|Take 001|Layer 001
+    7400030: Wall shelves|Cube.001Action
+    7400032: Wall shelves|Cube.001Action.002
+    7400034: Wall shelves|Directional Light|Take 001|Layer 001
+    7400036: Wall shelves|Directional Light|Take 001|Layer 001.001
+    7400038: Wall shelves|Directional Light|Take 001|Layer 001.002
+    7400040: Wall shelves|Directional Light|Take 001|Layer 001.003
+    7400042: Wall shelves|Directional Light|Take 001|Layer 001.004
+    7400044: Wall shelves|Directional Light|Take 001|Layer 001.005
+    7400046: Wall shelves|Directional Light|Take 001|Layer 001.006
+    7400048: Wall shelves|Directional Light|Take 001|Layer 001.007
+    7400050: Wall shelves|Door.002Action
+    7400052: Wall shelves|Door.1Action
+    7400054: Wall shelves|Floor|Take 001|Layer 001
+    7400056: Wall shelves|Floor|Take 001|Layer 001.001
+    7400058: Wall shelves|Fridge|Take 001|Layer 001
+    7400060: Wall shelves|Hanging lights|Take 001|Layer 001
+    7400062: Wall shelves|Hanging shelf|Take 001|Layer 001
+    7400064: Wall shelves|L Table|Take 001|Layer 001
+    7400066: Wall shelves|MeshAction
+    7400068: Wall shelves|MeshAction.001
+    7400070: Wall shelves|Mesh|Take 001|Layer 001
+    7400072: Wall shelves|Mesh|Take 001|Layer 001.001
+    7400074: Wall shelves|Mesh|Take 001|Layer 001.002
+    7400076: Wall shelves|Mesh|Take 001|Layer 001.003
+    7400078: Wall shelves|Mesh|Take 001|Layer 001.004
+    7400080: Wall shelves|Oven|Take 001|Layer 001
+    7400082: Wall shelves|Plates|Take 001|Layer 001
+    7400084: Wall shelves|Pots and Pans|Take 001|Layer 001
+    7400086: Wall shelves|Stove/Ovens|Take 001|Layer 001
+    7400088: Wall shelves|Table.001|Take 001|Layer 001
+    7400090: Wall shelves|Texture Group|Take 001|Layer 001
+    7400092: Wall shelves|Texture Group|Take 001|Layer 001.001
+    7400094: Wall shelves|Texture Group|Take 001|Layer 001.002
+    7400096: Wall shelves|Utencils|Take 001|Layer 001
+    7400098: Wall shelves|Wall shelves|Take 001|Layer 001
+    7400100: Wall shelves|Walls|Take 001|Layer 001
+    7400102: Wall shelves|Walls|Take 001|Layer 001.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

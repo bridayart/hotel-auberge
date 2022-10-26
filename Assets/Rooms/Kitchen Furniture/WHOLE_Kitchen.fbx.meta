@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: d811da7326b324d878c0ba2c36d7c7bc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Drawers
+    100002: Floor
+    100004: Fridge
+    100006: Hanging lights
+    100008: Hanging shelf
+    100010: L Table
+    100012: LongTable
+    100014: Oven
+    100016: Wall shelves
+    100018: //RootNode
+    400000: Drawers
+    400002: Floor
+    400004: Fridge
+    400006: Hanging lights
+    400008: Hanging shelf
+    400010: L Table
+    400012: LongTable
+    400014: Oven
+    400016: Wall shelves
+    400018: //RootNode
+    2100000: Kitchen_Floor
+    2100002: Kitchen Wall
+    2100004: Fridge_Texture
+    2100006: Kitchen_Lights
+    2100008: Material
+    2100010: LTable
+    2100012: Oven_Texture
+    2100014: Table_Drawers_Texture
+    2100016: LongTable_Texture
+    2100018: Shelf_Texture
+    2300000: Drawers
+    2300002: Floor
+    2300004: Fridge
+    2300006: Hanging lights
+    2300008: Hanging shelf
+    2300010: L Table
+    2300012: LongTable
+    2300014: Oven
+    2300016: Wall shelves
+    3300000: Drawers
+    3300002: Floor
+    3300004: Fridge
+    3300006: Hanging lights
+    3300008: Hanging shelf
+    3300010: L Table
+    3300012: LongTable
+    3300014: Oven
+    3300016: Wall shelves
+    4300000: Floor
+    4300002: Fridge
+    4300004: Hanging lights
+    4300006: Hanging shelf
+    4300008: L Table
+    4300010: Oven
+    4300012: Drawers
+    4300014: LongTable
+    4300016: Wall shelves
+    7400000: Floor|Alcove Ceeling|Take 001|Layer 001
+    7400002: Floor|Bowls|Take 001|Layer 001
+    7400004: Floor|Box outline|Take 001|Layer 001
+    7400006: Floor|Box outline|Take 001|Layer 001.001
+    7400008: Floor|Box outline|Take 001|Layer 001.002
+    7400010: Floor|Camera.001|Take 001|Layer 001
+    7400012: Floor|Camera.001|Take 001|Layer 001.001
+    7400014: Floor|Camera.001|Take 001|Layer 001.002
+    7400016: Floor|Camera.001|Take 001|Layer 001.003
+    7400018: Floor|Camera.001|Take 001|Layer 001.004
+    7400020: Floor|Camera.002|Take 001|Layer 001
+    7400022: Floor|CameraAction
+    7400024: Floor|Camera|Take 001|Layer 001
+    7400026: Floor|Camera|Take 001|Layer 001.001
+    7400028: Floor|Ceeling|Take 001|Layer 001
+    7400030: Floor|Cube.001Action
+    7400032: Floor|Cube.001Action.002
+    7400034: Floor|Directional Light|Take 001|Layer 001
+    7400036: Floor|Directional Light|Take 001|Layer 001.001
+    7400038: Floor|Directional Light|Take 001|Layer 001.002
+    7400040: Floor|Directional Light|Take 001|Layer 001.003
+    7400042: Floor|Directional Light|Take 001|Layer 001.004
+    7400044: Floor|Directional Light|Take 001|Layer 001.005
+    7400046: Floor|Directional Light|Take 001|Layer 001.006
+    7400048: Floor|Directional Light|Take 001|Layer 001.007
+    7400050: Floor|Door.002Action
+    7400052: Floor|Door.1Action
+    7400054: Floor|Floor|Take 001|Layer 001
+    7400056: Floor|Floor|Take 001|Layer 001.001
+    7400058: Floor|Fridge|Take 001|Layer 001
+    7400060: Floor|Hanging lights|Take 001|Layer 001
+    7400062: Floor|Hanging shelf|Take 001|Layer 001
+    7400064: Floor|L Table|Take 001|Layer 001
+    7400066: Floor|MeshAction
+    7400068: Floor|MeshAction.001
+    7400070: Floor|Mesh|Take 001|Layer 001
+    7400072: Floor|Mesh|Take 001|Layer 001.001
+    7400074: Floor|Mesh|Take 001|Layer 001.002
+    7400076: Floor|Mesh|Take 001|Layer 001.003
+    7400078: Floor|Mesh|Take 001|Layer 001.004
+    7400080: Floor|Oven|Take 001|Layer 001
+    7400082: Floor|Plates|Take 001|Layer 001
+    7400084: Floor|Pots and Pans|Take 001|Layer 001
+    7400086: Floor|Stove/Ovens|Take 001|Layer 001
+    7400088: Floor|Table.001|Take 001|Layer 001
+    7400090: Floor|Texture Group|Take 001|Layer 001
+    7400092: Floor|Texture Group|Take 001|Layer 001.001
+    7400094: Floor|Texture Group|Take 001|Layer 001.002
+    7400096: Floor|Utencils|Take 001|Layer 001
+    7400098: Floor|Wall shelves|Take 001|Layer 001
+    7400100: Floor|Walls|Take 001|Layer 001
+    7400102: Floor|Walls|Take 001|Layer 001.001
+    7400104: Fridge|Alcove Ceeling|Take 001|Layer 001
+    7400106: Fridge|Bowls|Take 001|Layer 001
+    7400108: Fridge|Box outline|Take 001|Layer 001
+    7400110: Fridge|Box outline|Take 001|Layer 001.001
+    7400112: Fridge|Box outline|Take 001|Layer 001.002
+    7400114: Fridge|Camera.001|Take 001|Layer 001
+    7400116: Fridge|Camera.001|Take 001|Layer 001.001
+    7400118: Fridge|Camera.001|Take 001|Layer 001.002
+    7400120: Fridge|Camera.001|Take 001|Layer 001.003
+    7400122: Fridge|Camera.001|Take 001|Layer 001.004
+    7400124: Fridge|Camera.002|Take 001|Layer 001
+    7400126: Fridge|CameraAction
+    7400128: Fridge|Camera|Take 001|Layer 001
+    7400130: Fridge|Camera|Take 001|Layer 001.001
+    7400132: Fridge|Ceeling|Take 001|Layer 001
+    7400134: Fridge|Cube.001Action
+    7400136: Fridge|Cube.001Action.002
+    7400138: Fridge|Directional Light|Take 001|Layer 001
+    7400140: Fridge|Directional Light|Take 001|Layer 001.001
+    7400142: Fridge|Directional Light|Take 001|Layer 001.002
+    7400144: Fridge|Directional Light|Take 001|Layer 001.003
+    7400146: Fridge|Directional Light|Take 001|Layer 001.004
+    7400148: Fridge|Directional Light|Take 001|Layer 001.005
+    7400150: Fridge|Directional Light|Take 001|Layer 001.006
+    7400152: Fridge|Directional Light|Take 001|Layer 001.007
+    7400154: Fridge|Door.002Action
+    7400156: Fridge|Door.1Action
+    7400158: Fridge|Floor|Take 001|Layer 001
+    7400160: Fridge|Floor|Take 001|Layer 001.001
+    7400162: Fridge|Fridge|Take 001|Layer 001
+    7400164: Fridge|Hanging lights|Take 001|Layer 001
+    7400166: Fridge|Hanging shelf|Take 001|Layer 001
+    7400168: Fridge|L Table|Take 001|Layer 001
+    7400170: Fridge|MeshAction
+    7400172: Fridge|MeshAction.001
+    7400174: Fridge|Mesh|Take 001|Layer 001
+    7400176: Fridge|Mesh|Take 001|Layer 001.001
+    7400178: Fridge|Mesh|Take 001|Layer 001.002
+    7400180: Fridge|Mesh|Take 001|Layer 001.003
+    7400182: Fridge|Mesh|Take 001|Layer 001.004
+    7400184: Fridge|Oven|Take 001|Layer 001
+    7400186: Fridge|Plates|Take 001|Layer 001
+    7400188: Fridge|Pots and Pans|Take 001|Layer 001
+    7400190: Fridge|Stove/Ovens|Take 001|Layer 001
+    7400192: Fridge|Table.001|Take 001|Layer 001
+    7400194: Fridge|Texture Group|Take 001|Layer 001
+    7400196: Fridge|Texture Group|Take 001|Layer 001.001
+    7400198: Fridge|Texture Group|Take 001|Layer 001.002
+    7400200: Fridge|Utencils|Take 001|Layer 001
+    7400202: Fridge|Wall shelves|Take 001|Layer 001
+    7400204: Fridge|Walls|Take 001|Layer 001
+    7400206: Fridge|Walls|Take 001|Layer 001.001
+    7400208: Hanging lights|Alcove Ceeling|Take 001|Layer 001
+    7400210: Hanging lights|Bowls|Take 001|Layer 001
+    7400212: Hanging lights|Box outline|Take 001|Layer 001
+    7400214: Hanging lights|Box outline|Take 001|Layer 001.001
+    7400216: Hanging lights|Box outline|Take 001|Layer 001.002
+    7400218: Hanging lights|Camera.001|Take 001|Layer 001
+    7400220: Hanging lights|Camera.001|Take 001|Layer 001.001
+    7400222: Hanging lights|Camera.001|Take 001|Layer 001.002
+    7400224: Hanging lights|Camera.001|Take 001|Layer 001.003
+    7400226: Hanging lights|Camera.001|Take 001|Layer 001.004
+    7400228: Hanging lights|Camera.002|Take 001|Layer 001
+    7400230: Hanging lights|CameraAction
+    7400232: Hanging lights|Camera|Take 001|Layer 001
+    7400234: Hanging lights|Camera|Take 001|Layer 001.001
+    7400236: Hanging lights|Ceeling|Take 001|Layer 001
+    7400238: Hanging lights|Cube.001Action
+    7400240: Hanging lights|Cube.001Action.002
+    7400242: Hanging lights|Directional Light|Take 001|Layer 001
+    7400244: Hanging lights|Directional Light|Take 001|Layer 001.001
+    7400246: Hanging lights|Directional Light|Take 001|Layer 001.002
+    7400248: Hanging lights|Directional Light|Take 001|Layer 001.003
+    7400250: Hanging lights|Directional Light|Take 001|Layer 001.004
+    7400252: Hanging lights|Directional Light|Take 001|Layer 001.005
+    7400254: Hanging lights|Directional Light|Take 001|Layer 001.006
+    7400256: Hanging lights|Directional Light|Take 001|Layer 001.007
+    7400258: Hanging lights|Door.002Action
+    7400260: Hanging lights|Door.1Action
+    7400262: Hanging lights|Floor|Take 001|Layer 001
+    7400264: Hanging lights|Floor|Take 001|Layer 001.001
+    7400266: Hanging lights|Fridge|Take 001|Layer 001
+    7400268: Hanging lights|Hanging lights|Take 001|Layer 001
+    7400270: Hanging lights|Hanging shelf|Take 001|Layer 001
+    7400272: Hanging lights|L Table|Take 001|Layer 001
+    7400274: Hanging lights|MeshAction
+    7400276: Hanging lights|MeshAction.001
+    7400278: Hanging lights|Mesh|Take 001|Layer 001
+    7400280: Hanging lights|Mesh|Take 001|Layer 001.001
+    7400282: Hanging lights|Mesh|Take 001|Layer 001.002
+    7400284: Hanging lights|Mesh|Take 001|Layer 001.003
+    7400286: Hanging lights|Mesh|Take 001|Layer 001.004
+    7400288: Hanging lights|Oven|Take 001|Layer 001
+    7400290: Hanging lights|Plates|Take 001|Layer 001
+    7400292: Hanging lights|Pots and Pans|Take 001|Layer 001
+    7400294: Hanging lights|Stove/Ovens|Take 001|Layer 001
+    7400296: Hanging lights|Table.001|Take 001|Layer 001
+    7400298: Hanging lights|Texture Group|Take 001|Layer 001
+    7400300: Hanging lights|Texture Group|Take 001|Layer 001.001
+    7400302: Hanging lights|Texture Group|Take 001|Layer 001.002
+    7400304: Hanging lights|Utencils|Take 001|Layer 001
+    7400306: Hanging lights|Wall shelves|Take 001|Layer 001
+    7400308: Hanging lights|Walls|Take 001|Layer 001
+    7400310: Hanging lights|Walls|Take 001|Layer 001.001
+    7400312: Hanging shelf|Alcove Ceeling|Take 001|Layer 001
+    7400314: Hanging shelf|Bowls|Take 001|Layer 001
+    7400316: Hanging shelf|Box outline|Take 001|Layer 001
+    7400318: Hanging shelf|Box outline|Take 001|Layer 001.001
+    7400320: Hanging shelf|Box outline|Take 001|Layer 001.002
+    7400322: Hanging shelf|Camera.001|Take 001|Layer 001
+    7400324: Hanging shelf|Camera.001|Take 001|Layer 001.001
+    7400326: Hanging shelf|Camera.001|Take 001|Layer 001.002
+    7400328: Hanging shelf|Camera.001|Take 001|Layer 001.003
+    7400330: Hanging shelf|Camera.001|Take 001|Layer 001.004
+    7400332: Hanging shelf|Camera.002|Take 001|Layer 001
+    7400334: Hanging shelf|CameraAction
+    7400336: Hanging shelf|Camera|Take 001|Layer 001
+    7400338: Hanging shelf|Camera|Take 001|Layer 001.001
+    7400340: Hanging shelf|Ceeling|Take 001|Layer 001
+    7400342: Hanging shelf|Cube.001Action
+    7400344: Hanging shelf|Cube.001Action.002
+    7400346: Hanging shelf|Directional Light|Take 001|Layer 001
+    7400348: Hanging shelf|Directional Light|Take 001|Layer 001.001
+    7400350: Hanging shelf|Directional Light|Take 001|Layer 001.002
+    7400352: Hanging shelf|Directional Light|Take 001|Layer 001.003
+    7400354: Hanging shelf|Directional Light|Take 001|Layer 001.004
+    7400356: Hanging shelf|Directional Light|Take 001|Layer 001.005
+    7400358: Hanging shelf|Directional Light|Take 001|Layer 001.006
+    7400360: Hanging shelf|Directional Light|Take 001|Layer 001.007
+    7400362: Hanging shelf|Door.002Action
+    7400364: Hanging shelf|Door.1Action
+    7400366: Hanging shelf|Floor|Take 001|Layer 001
+    7400368: Hanging shelf|Floor|Take 001|Layer 001.001
+    7400370: Hanging shelf|Fridge|Take 001|Layer 001
+    7400372: Hanging shelf|Hanging lights|Take 001|Layer 001
+    7400374: Hanging shelf|Hanging shelf|Take 001|Layer 001
+    7400376: Hanging shelf|L Table|Take 001|Layer 001
+    7400378: Hanging shelf|MeshAction
+    7400380: Hanging shelf|MeshAction.001
+    7400382: Hanging shelf|Mesh|Take 001|Layer 001
+    7400384: Hanging shelf|Mesh|Take 001|Layer 001.001
+    7400386: Hanging shelf|Mesh|Take 001|Layer 001.002
+    7400388: Hanging shelf|Mesh|Take 001|Layer 001.003
+    7400390: Hanging shelf|Mesh|Take 001|Layer 001.004
+    7400392: Hanging shelf|Oven|Take 001|Layer 001
+    7400394: Hanging shelf|Plates|Take 001|Layer 001
+    7400396: Hanging shelf|Pots and Pans|Take 001|Layer 001
+    7400398: Hanging shelf|Stove/Ovens|Take 001|Layer 001
+    7400400: Hanging shelf|Table.001|Take 001|Layer 001
+    7400402: Hanging shelf|Texture Group|Take 001|Layer 001
+    7400404: Hanging shelf|Texture Group|Take 001|Layer 001.001
+    7400406: Hanging shelf|Texture Group|Take 001|Layer 001.002
+    7400408: Hanging shelf|Utencils|Take 001|Layer 001
+    7400410: Hanging shelf|Wall shelves|Take 001|Layer 001
+    7400412: Hanging shelf|Walls|Take 001|Layer 001
+    7400414: Hanging shelf|Walls|Take 001|Layer 001.001
+    7400416: L Table|Alcove Ceeling|Take 001|Layer 001
+    7400418: L Table|Bowls|Take 001|Layer 001
+    7400420: L Table|Box outline|Take 001|Layer 001
+    7400422: L Table|Box outline|Take 001|Layer 001.001
+    7400424: L Table|Box outline|Take 001|Layer 001.002
+    7400426: L Table|Camera.001|Take 001|Layer 001
+    7400428: L Table|Camera.001|Take 001|Layer 001.001
+    7400430: L Table|Camera.001|Take 001|Layer 001.002
+    7400432: L Table|Camera.001|Take 001|Layer 001.003
+    7400434: L Table|Camera.001|Take 001|Layer 001.004
+    7400436: L Table|Camera.002|Take 001|Layer 001
+    7400438: L Table|CameraAction
+    7400440: L Table|Camera|Take 001|Layer 001
+    7400442: L Table|Camera|Take 001|Layer 001.001
+    7400444: L Table|Ceeling|Take 001|Layer 001
+    7400446: L Table|Cube.001Action
+    7400448: L Table|Cube.001Action.002
+    7400450: L Table|Directional Light|Take 001|Layer 001
+    7400452: L Table|Directional Light|Take 001|Layer 001.001
+    7400454: L Table|Directional Light|Take 001|Layer 001.002
+    7400456: L Table|Directional Light|Take 001|Layer 001.003
+    7400458: L Table|Directional Light|Take 001|Layer 001.004
+    7400460: L Table|Directional Light|Take 001|Layer 001.005
+    7400462: L Table|Directional Light|Take 001|Layer 001.006
+    7400464: L Table|Directional Light|Take 001|Layer 001.007
+    7400466: L Table|Door.002Action
+    7400468: L Table|Door.1Action
+    7400470: L Table|Floor|Take 001|Layer 001
+    7400472: L Table|Floor|Take 001|Layer 001.001
+    7400474: L Table|Fridge|Take 001|Layer 001
+    7400476: L Table|Hanging lights|Take 001|Layer 001
+    7400478: L Table|Hanging shelf|Take 001|Layer 001
+    7400480: L Table|L Table|Take 001|Layer 001
+    7400482: L Table|MeshAction
+    7400484: L Table|MeshAction.001
+    7400486: L Table|Mesh|Take 001|Layer 001
+    7400488: L Table|Mesh|Take 001|Layer 001.001
+    7400490: L Table|Mesh|Take 001|Layer 001.002
+    7400492: L Table|Mesh|Take 001|Layer 001.003
+    7400494: L Table|Mesh|Take 001|Layer 001.004
+    7400496: L Table|Oven|Take 001|Layer 001
+    7400498: L Table|Plates|Take 001|Layer 001
+    7400500: L Table|Pots and Pans|Take 001|Layer 001
+    7400502: L Table|Stove/Ovens|Take 001|Layer 001
+    7400504: L Table|Table.001|Take 001|Layer 001
+    7400506: L Table|Texture Group|Take 001|Layer 001
+    7400508: L Table|Texture Group|Take 001|Layer 001.001
+    7400510: L Table|Texture Group|Take 001|Layer 001.002
+    7400512: L Table|Utencils|Take 001|Layer 001
+    7400514: L Table|Wall shelves|Take 001|Layer 001
+    7400516: L Table|Walls|Take 001|Layer 001
+    7400518: L Table|Walls|Take 001|Layer 001.001
+    7400520: Oven|Alcove Ceeling|Take 001|Layer 001
+    7400522: Oven|Bowls|Take 001|Layer 001
+    7400524: Oven|Box outline|Take 001|Layer 001
+    7400526: Oven|Box outline|Take 001|Layer 001.001
+    7400528: Oven|Box outline|Take 001|Layer 001.002
+    7400530: Oven|Camera.001|Take 001|Layer 001
+    7400532: Oven|Camera.001|Take 001|Layer 001.001
+    7400534: Oven|Camera.001|Take 001|Layer 001.002
+    7400536: Oven|Camera.001|Take 001|Layer 001.003
+    7400538: Oven|Camera.001|Take 001|Layer 001.004
+    7400540: Oven|Camera.002|Take 001|Layer 001
+    7400542: Oven|CameraAction
+    7400544: Oven|Camera|Take 001|Layer 001
+    7400546: Oven|Camera|Take 001|Layer 001.001
+    7400548: Oven|Ceeling|Take 001|Layer 001
+    7400550: Oven|Cube.001Action
+    7400552: Oven|Cube.001Action.002
+    7400554: Oven|Directional Light|Take 001|Layer 001
+    7400556: Oven|Directional Light|Take 001|Layer 001.001
+    7400558: Oven|Directional Light|Take 001|Layer 001.002
+    7400560: Oven|Directional Light|Take 001|Layer 001.003
+    7400562: Oven|Directional Light|Take 001|Layer 001.004
+    7400564: Oven|Directional Light|Take 001|Layer 001.005
+    7400566: Oven|Directional Light|Take 001|Layer 001.006
+    7400568: Oven|Directional Light|Take 001|Layer 001.007
+    7400570: Oven|Door.002Action
+    7400572: Oven|Door.1Action
+    7400574: Oven|Floor|Take 001|Layer 001
+    7400576: Oven|Floor|Take 001|Layer 001.001
+    7400578: Oven|Fridge|Take 001|Layer 001
+    7400580: Oven|Hanging lights|Take 001|Layer 001
+    7400582: Oven|Hanging shelf|Take 001|Layer 001
+    7400584: Oven|L Table|Take 001|Layer 001
+    7400586: Oven|MeshAction
+    7400588: Oven|MeshAction.001
+    7400590: Oven|Mesh|Take 001|Layer 001
+    7400592: Oven|Mesh|Take 001|Layer 001.001
+    7400594: Oven|Mesh|Take 001|Layer 001.002
+    7400596: Oven|Mesh|Take 001|Layer 001.003
+    7400598: Oven|Mesh|Take 001|Layer 001.004
+    7400600: Oven|Oven|Take 001|Layer 001
+    7400602: Oven|Plates|Take 001|Layer 001
+    7400604: Oven|Pots and Pans|Take 001|Layer 001
+    7400606: Oven|Stove/Ovens|Take 001|Layer 001
+    7400608: Oven|Table.001|Take 001|Layer 001
+    7400610: Oven|Texture Group|Take 001|Layer 001
+    7400612: Oven|Texture Group|Take 001|Layer 001.001
+    7400614: Oven|Texture Group|Take 001|Layer 001.002
+    7400616: Oven|Utencils|Take 001|Layer 001
+    7400618: Oven|Wall shelves|Take 001|Layer 001
+    7400620: Oven|Walls|Take 001|Layer 001
+    7400622: Oven|Walls|Take 001|Layer 001.001
+    7400624: Drawers|Alcove Ceeling|Take 001|Layer 001
+    7400626: Drawers|Bowls|Take 001|Layer 001
+    7400628: Drawers|Box outline|Take 001|Layer 001
+    7400630: Drawers|Box outline|Take 001|Layer 001.001
+    7400632: Drawers|Box outline|Take 001|Layer 001.002
+    7400634: Drawers|Camera.001|Take 001|Layer 001
+    7400636: Drawers|Camera.001|Take 001|Layer 001.001
+    7400638: Drawers|Camera.001|Take 001|Layer 001.002
+    7400640: Drawers|Camera.001|Take 001|Layer 001.003
+    7400642: Drawers|Camera.001|Take 001|Layer 001.004
+    7400644: Drawers|Camera.002|Take 001|Layer 001
+    7400646: Drawers|CameraAction
+    7400648: Drawers|Camera|Take 001|Layer 001
+    7400650: Drawers|Camera|Take 001|Layer 001.001
+    7400652: Drawers|Ceeling|Take 001|Layer 001
+    7400654: Drawers|Cube.001Action
+    7400656: Drawers|Cube.001Action.002
+    7400658: Drawers|Directional Light|Take 001|Layer 001
+    7400660: Drawers|Directional Light|Take 001|Layer 001.001
+    7400662: Drawers|Directional Light|Take 001|Layer 001.002
+    7400664: Drawers|Directional Light|Take 001|Layer 001.003
+    7400666: Drawers|Directional Light|Take 001|Layer 001.004
+    7400668: Drawers|Directional Light|Take 001|Layer 001.005
+    7400670: Drawers|Directional Light|Take 001|Layer 001.006
+    7400672: Drawers|Directional Light|Take 001|Layer 001.007
+    7400674: Drawers|Door.002Action
+    7400676: Drawers|Door.1Action
+    7400678: Drawers|Floor|Take 001|Layer 001
+    7400680: Drawers|Floor|Take 001|Layer 001.001
+    7400682: Drawers|Fridge|Take 001|Layer 001
+    7400684: Drawers|Hanging lights|Take 001|Layer 001
+    7400686: Drawers|Hanging shelf|Take 001|Layer 001
+    7400688: Drawers|L Table|Take 001|Layer 001
+    7400690: Drawers|MeshAction
+    7400692: Drawers|MeshAction.001
+    7400694: Drawers|Mesh|Take 001|Layer 001
+    7400696: Drawers|Mesh|Take 001|Layer 001.001
+    7400698: Drawers|Mesh|Take 001|Layer 001.002
+    7400700: Drawers|Mesh|Take 001|Layer 001.003
+    7400702: Drawers|Mesh|Take 001|Layer 001.004
+    7400704: Drawers|Oven|Take 001|Layer 001
+    7400706: Drawers|Plates|Take 001|Layer 001
+    7400708: Drawers|Pots and Pans|Take 001|Layer 001
+    7400710: Drawers|Stove/Ovens|Take 001|Layer 001
+    7400712: Drawers|Table.001|Take 001|Layer 001
+    7400714: Drawers|Texture Group|Take 001|Layer 001
+    7400716: Drawers|Texture Group|Take 001|Layer 001.001
+    7400718: Drawers|Texture Group|Take 001|Layer 001.002
+    7400720: Drawers|Utencils|Take 001|Layer 001
+    7400722: Drawers|Wall shelves|Take 001|Layer 001
+    7400724: Drawers|Walls|Take 001|Layer 001
+    7400726: Drawers|Walls|Take 001|Layer 001.001
+    7400728: LongTable|Alcove Ceeling|Take 001|Layer 001
+    7400730: LongTable|Bowls|Take 001|Layer 001
+    7400732: LongTable|Box outline|Take 001|Layer 001
+    7400734: LongTable|Box outline|Take 001|Layer 001.001
+    7400736: LongTable|Box outline|Take 001|Layer 001.002
+    7400738: LongTable|Camera.001|Take 001|Layer 001
+    7400740: LongTable|Camera.001|Take 001|Layer 001.001
+    7400742: LongTable|Camera.001|Take 001|Layer 001.002
+    7400744: LongTable|Camera.001|Take 001|Layer 001.003
+    7400746: LongTable|Camera.001|Take 001|Layer 001.004
+    7400748: LongTable|Camera.002|Take 001|Layer 001
+    7400750: LongTable|CameraAction
+    7400752: LongTable|Camera|Take 001|Layer 001
+    7400754: LongTable|Camera|Take 001|Layer 001.001
+    7400756: LongTable|Ceeling|Take 001|Layer 001
+    7400758: LongTable|Cube.001Action
+    7400760: LongTable|Cube.001Action.002
+    7400762: LongTable|Directional Light|Take 001|Layer 001
+    7400764: LongTable|Directional Light|Take 001|Layer 001.001
+    7400766: LongTable|Directional Light|Take 001|Layer 001.002
+    7400768: LongTable|Directional Light|Take 001|Layer 001.003
+    7400770: LongTable|Directional Light|Take 001|Layer 001.004
+    7400772: LongTable|Directional Light|Take 001|Layer 001.005
+    7400774: LongTable|Directional Light|Take 001|Layer 001.006
+    7400776: LongTable|Directional Light|Take 001|Layer 001.007
+    7400778: LongTable|Door.002Action
+    7400780: LongTable|Door.1Action
+    7400782: LongTable|Floor|Take 001|Layer 001
+    7400784: LongTable|Floor|Take 001|Layer 001.001
+    7400786: LongTable|Fridge|Take 001|Layer 001
+    7400788: LongTable|Hanging lights|Take 001|Layer 001
+    7400790: LongTable|Hanging shelf|Take 001|Layer 001
+    7400792: LongTable|L Table|Take 001|Layer 001
+    7400794: LongTable|MeshAction
+    7400796: LongTable|MeshAction.001
+    7400798: LongTable|Mesh|Take 001|Layer 001
+    7400800: LongTable|Mesh|Take 001|Layer 001.001
+    7400802: LongTable|Mesh|Take 001|Layer 001.002
+    7400804: LongTable|Mesh|Take 001|Layer 001.003
+    7400806: LongTable|Mesh|Take 001|Layer 001.004
+    7400808: LongTable|Oven|Take 001|Layer 001
+    7400810: LongTable|Plates|Take 001|Layer 001
+    7400812: LongTable|Pots and Pans|Take 001|Layer 001
+    7400814: LongTable|Stove/Ovens|Take 001|Layer 001
+    7400816: LongTable|Table.001|Take 001|Layer 001
+    7400818: LongTable|Texture Group|Take 001|Layer 001
+    7400820: LongTable|Texture Group|Take 001|Layer 001.001
+    7400822: LongTable|Texture Group|Take 001|Layer 001.002
+    7400824: LongTable|Utencils|Take 001|Layer 001
+    7400826: LongTable|Wall shelves|Take 001|Layer 001
+    7400828: LongTable|Walls|Take 001|Layer 001
+    7400830: LongTable|Walls|Take 001|Layer 001.001
+    7400832: Wall shelves|Alcove Ceeling|Take 001|Layer 001
+    7400834: Wall shelves|Bowls|Take 001|Layer 001
+    7400836: Wall shelves|Box outline|Take 001|Layer 001
+    7400838: Wall shelves|Box outline|Take 001|Layer 001.001
+    7400840: Wall shelves|Box outline|Take 001|Layer 001.002
+    7400842: Wall shelves|Camera.001|Take 001|Layer 001
+    7400844: Wall shelves|Camera.001|Take 001|Layer 001.001
+    7400846: Wall shelves|Camera.001|Take 001|Layer 001.002
+    7400848: Wall shelves|Camera.001|Take 001|Layer 001.003
+    7400850: Wall shelves|Camera.001|Take 001|Layer 001.004
+    7400852: Wall shelves|Camera.002|Take 001|Layer 001
+    7400854: Wall shelves|CameraAction
+    7400856: Wall shelves|Camera|Take 001|Layer 001
+    7400858: Wall shelves|Camera|Take 001|Layer 001.001
+    7400860: Wall shelves|Ceeling|Take 001|Layer 001
+    7400862: Wall shelves|Cube.001Action
+    7400864: Wall shelves|Cube.001Action.002
+    7400866: Wall shelves|Directional Light|Take 001|Layer 001
+    7400868: Wall shelves|Directional Light|Take 001|Layer 001.001
+    7400870: Wall shelves|Directional Light|Take 001|Layer 001.002
+    7400872: Wall shelves|Directional Light|Take 001|Layer 001.003
+    7400874: Wall shelves|Directional Light|Take 001|Layer 001.004
+    7400876: Wall shelves|Directional Light|Take 001|Layer 001.005
+    7400878: Wall shelves|Directional Light|Take 001|Layer 001.006
+    7400880: Wall shelves|Directional Light|Take 001|Layer 001.007
+    7400882: Wall shelves|Door.002Action
+    7400884: Wall shelves|Door.1Action
+    7400886: Wall shelves|Floor|Take 001|Layer 001
+    7400888: Wall shelves|Floor|Take 001|Layer 001.001
+    7400890: Wall shelves|Fridge|Take 001|Layer 001
+    7400892: Wall shelves|Hanging lights|Take 001|Layer 001
+    7400894: Wall shelves|Hanging shelf|Take 001|Layer 001
+    7400896: Wall shelves|L Table|Take 001|Layer 001
+    7400898: Wall shelves|MeshAction
+    7400900: Wall shelves|MeshAction.001
+    7400902: Wall shelves|Mesh|Take 001|Layer 001
+    7400904: Wall shelves|Mesh|Take 001|Layer 001.001
+    7400906: Wall shelves|Mesh|Take 001|Layer 001.002
+    7400908: Wall shelves|Mesh|Take 001|Layer 001.003
+    7400910: Wall shelves|Mesh|Take 001|Layer 001.004
+    7400912: Wall shelves|Oven|Take 001|Layer 001
+    7400914: Wall shelves|Plates|Take 001|Layer 001
+    7400916: Wall shelves|Pots and Pans|Take 001|Layer 001
+    7400918: Wall shelves|Stove/Ovens|Take 001|Layer 001
+    7400920: Wall shelves|Table.001|Take 001|Layer 001
+    7400922: Wall shelves|Texture Group|Take 001|Layer 001
+    7400924: Wall shelves|Texture Group|Take 001|Layer 001.001
+    7400926: Wall shelves|Texture Group|Take 001|Layer 001.002
+    7400928: Wall shelves|Utencils|Take 001|Layer 001
+    7400930: Wall shelves|Wall shelves|Take 001|Layer 001
+    7400932: Wall shelves|Walls|Take 001|Layer 001
+    7400934: Wall shelves|Walls|Take 001|Layer 001.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

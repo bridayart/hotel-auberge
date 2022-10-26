@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 7df37c35ebbbf4bb18a4f062b972920e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Floor
+    100002: //RootNode
+    100004: Wall
+    400000: Floor
+    400002: //RootNode
+    400004: Wall
+    2100000: Kitchen Wall
+    2100002: Kitchen_Floor
+    2300000: Floor
+    2300002: Wall
+    3300000: Floor
+    3300002: Wall
+    4300000: Wall
+    4300002: Floor
+    7400000: Wall|Alcove Ceeling|Take 001|Layer 001
+    7400002: Wall|Bowls|Take 001|Layer 001
+    7400004: Wall|Box outline|Take 001|Layer 001
+    7400006: Wall|Box outline|Take 001|Layer 001.001
+    7400008: Wall|Box outline|Take 001|Layer 001.002
+    7400010: Wall|Camera.001|Take 001|Layer 001
+    7400012: Wall|Camera.001|Take 001|Layer 001.001
+    7400014: Wall|Camera.001|Take 001|Layer 001.002
+    7400016: Wall|Camera.001|Take 001|Layer 001.003
+    7400018: Wall|Camera.001|Take 001|Layer 001.004
+    7400020: Wall|Camera.002|Take 001|Layer 001
+    7400022: Wall|CameraAction
+    7400024: Wall|Camera|Take 001|Layer 001
+    7400026: Wall|Camera|Take 001|Layer 001.001
+    7400028: Wall|Ceeling|Take 001|Layer 001
+    7400030: Wall|Cube.001Action
+    7400032: Wall|Cube.001Action.002
+    7400034: Wall|Directional Light|Take 001|Layer 001
+    7400036: Wall|Directional Light|Take 001|Layer 001.001
+    7400038: Wall|Directional Light|Take 001|Layer 001.002
+    7400040: Wall|Directional Light|Take 001|Layer 001.003
+    7400042: Wall|Directional Light|Take 001|Layer 001.004
+    7400044: Wall|Directional Light|Take 001|Layer 001.005
+    7400046: Wall|Directional Light|Take 001|Layer 001.006
+    7400048: Wall|Directional Light|Take 001|Layer 001.007
+    7400050: Wall|Door.002Action
+    7400052: Wall|Door.1Action
+    7400054: Wall|Floor|Take 001|Layer 001
+    7400056: Wall|Floor|Take 001|Layer 001.001
+    7400058: Wall|Fridge|Take 001|Layer 001
+    7400060: Wall|Hanging lights|Take 001|Layer 001
+    7400062: Wall|Hanging shelf|Take 001|Layer 001
+    7400064: Wall|L Table|Take 001|Layer 001
+    7400066: Wall|MeshAction
+    7400068: Wall|MeshAction.001
+    7400070: Wall|Mesh|Take 001|Layer 001
+    7400072: Wall|Mesh|Take 001|Layer 001.001
+    7400074: Wall|Mesh|Take 001|Layer 001.002
+    7400076: Wall|Mesh|Take 001|Layer 001.003
+    7400078: Wall|Mesh|Take 001|Layer 001.004
+    7400080: Wall|Oven|Take 001|Layer 001
+    7400082: Wall|Plates|Take 001|Layer 001
+    7400084: Wall|Pots and Pans|Take 001|Layer 001
+    7400086: Wall|Stove/Ovens|Take 001|Layer 001
+    7400088: Wall|Table.001|Take 001|Layer 001
+    7400090: Wall|Texture Group|Take 001|Layer 001
+    7400092: Wall|Texture Group|Take 001|Layer 001.001
+    7400094: Wall|Texture Group|Take 001|Layer 001.002
+    7400096: Wall|Utencils|Take 001|Layer 001
+    7400098: Wall|Wall shelves|Take 001|Layer 001
+    7400100: Wall|Walls|Take 001|Layer 001
+    7400102: Wall|Walls|Take 001|Layer 001.001
+    7400104: Floor|Alcove Ceeling|Take 001|Layer 001
+    7400106: Floor|Bowls|Take 001|Layer 001
+    7400108: Floor|Box outline|Take 001|Layer 001
+    7400110: Floor|Box outline|Take 001|Layer 001.001
+    7400112: Floor|Box outline|Take 001|Layer 001.002
+    7400114: Floor|Camera.001|Take 001|Layer 001
+    7400116: Floor|Camera.001|Take 001|Layer 001.001
+    7400118: Floor|Camera.001|Take 001|Layer 001.002
+    7400120: Floor|Camera.001|Take 001|Layer 001.003
+    7400122: Floor|Camera.001|Take 001|Layer 001.004
+    7400124: Floor|Camera.002|Take 001|Layer 001
+    7400126: Floor|CameraAction
+    7400128: Floor|Camera|Take 001|Layer 001
+    7400130: Floor|Camera|Take 001|Layer 001.001
+    7400132: Floor|Ceeling|Take 001|Layer 001
+    7400134: Floor|Cube.001Action
+    7400136: Floor|Cube.001Action.002
+    7400138: Floor|Directional Light|Take 001|Layer 001
+    7400140: Floor|Directional Light|Take 001|Layer 001.001
+    7400142: Floor|Directional Light|Take 001|Layer 001.002
+    7400144: Floor|Directional Light|Take 001|Layer 001.003
+    7400146: Floor|Directional Light|Take 001|Layer 001.004
+    7400148: Floor|Directional Light|Take 001|Layer 001.005
+    7400150: Floor|Directional Light|Take 001|Layer 001.006
+    7400152: Floor|Directional Light|Take 001|Layer 001.007
+    7400154: Floor|Door.002Action
+    7400156: Floor|Door.1Action
+    7400158: Floor|Floor|Take 001|Layer 001
+    7400160: Floor|Floor|Take 001|Layer 001.001
+    7400162: Floor|Fridge|Take 001|Layer 001
+    7400164: Floor|Hanging lights|Take 001|Layer 001
+    7400166: Floor|Hanging shelf|Take 001|Layer 001
+    7400168: Floor|L Table|Take 001|Layer 001
+    7400170: Floor|MeshAction
+    7400172: Floor|MeshAction.001
+    7400174: Floor|Mesh|Take 001|Layer 001
+    7400176: Floor|Mesh|Take 001|Layer 001.001
+    7400178: Floor|Mesh|Take 001|Layer 001.002
+    7400180: Floor|Mesh|Take 001|Layer 001.003
+    7400182: Floor|Mesh|Take 001|Layer 001.004
+    7400184: Floor|Oven|Take 001|Layer 001
+    7400186: Floor|Plates|Take 001|Layer 001
+    7400188: Floor|Pots and Pans|Take 001|Layer 001
+    7400190: Floor|Stove/Ovens|Take 001|Layer 001
+    7400192: Floor|Table.001|Take 001|Layer 001
+    7400194: Floor|Texture Group|Take 001|Layer 001
+    7400196: Floor|Texture Group|Take 001|Layer 001.001
+    7400198: Floor|Texture Group|Take 001|Layer 001.002
+    7400200: Floor|Utencils|Take 001|Layer 001
+    7400202: Floor|Wall shelves|Take 001|Layer 001
+    7400204: Floor|Walls|Take 001|Layer 001
+    7400206: Floor|Walls|Take 001|Layer 001.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

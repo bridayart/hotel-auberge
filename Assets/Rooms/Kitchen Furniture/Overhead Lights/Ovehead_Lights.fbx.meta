@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: a7de0b54a488b440c89bb8fce9236e34
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Kitchen_Lights
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Hanging lights
+    7400000: Hanging lights|Alcove Ceeling|Take 001|Layer 001
+    7400002: Hanging lights|Bowls|Take 001|Layer 001
+    7400004: Hanging lights|Box outline|Take 001|Layer 001
+    7400006: Hanging lights|Box outline|Take 001|Layer 001.001
+    7400008: Hanging lights|Box outline|Take 001|Layer 001.002
+    7400010: Hanging lights|Camera.001|Take 001|Layer 001
+    7400012: Hanging lights|Camera.001|Take 001|Layer 001.001
+    7400014: Hanging lights|Camera.001|Take 001|Layer 001.002
+    7400016: Hanging lights|Camera.001|Take 001|Layer 001.003
+    7400018: Hanging lights|Camera.001|Take 001|Layer 001.004
+    7400020: Hanging lights|Camera.002|Take 001|Layer 001
+    7400022: Hanging lights|CameraAction
+    7400024: Hanging lights|Camera|Take 001|Layer 001
+    7400026: Hanging lights|Camera|Take 001|Layer 001.001
+    7400028: Hanging lights|Ceeling|Take 001|Layer 001
+    7400030: Hanging lights|Cube.001Action
+    7400032: Hanging lights|Cube.001Action.002
+    7400034: Hanging lights|Directional Light|Take 001|Layer 001
+    7400036: Hanging lights|Directional Light|Take 001|Layer 001.001
+    7400038: Hanging lights|Directional Light|Take 001|Layer 001.002
+    7400040: Hanging lights|Directional Light|Take 001|Layer 001.003
+    7400042: Hanging lights|Directional Light|Take 001|Layer 001.004
+    7400044: Hanging lights|Directional Light|Take 001|Layer 001.005
+    7400046: Hanging lights|Directional Light|Take 001|Layer 001.006
+    7400048: Hanging lights|Directional Light|Take 001|Layer 001.007
+    7400050: Hanging lights|Door.002Action
+    7400052: Hanging lights|Door.1Action
+    7400054: Hanging lights|Floor|Take 001|Layer 001
+    7400056: Hanging lights|Floor|Take 001|Layer 001.001
+    7400058: Hanging lights|Fridge|Take 001|Layer 001
+    7400060: Hanging lights|Hanging lights|Take 001|Layer 001
+    7400062: Hanging lights|Hanging shelf|Take 001|Layer 001
+    7400064: Hanging lights|L Table|Take 001|Layer 001
+    7400066: Hanging lights|MeshAction
+    7400068: Hanging lights|MeshAction.001
+    7400070: Hanging lights|Mesh|Take 001|Layer 001
+    7400072: Hanging lights|Mesh|Take 001|Layer 001.001
+    7400074: Hanging lights|Mesh|Take 001|Layer 001.002
+    7400076: Hanging lights|Mesh|Take 001|Layer 001.003
+    7400078: Hanging lights|Mesh|Take 001|Layer 001.004
+    7400080: Hanging lights|Oven|Take 001|Layer 001
+    7400082: Hanging lights|Plates|Take 001|Layer 001
+    7400084: Hanging lights|Pots and Pans|Take 001|Layer 001
+    7400086: Hanging lights|Stove/Ovens|Take 001|Layer 001
+    7400088: Hanging lights|Table.001|Take 001|Layer 001
+    7400090: Hanging lights|Texture Group|Take 001|Layer 001
+    7400092: Hanging lights|Texture Group|Take 001|Layer 001.001
+    7400094: Hanging lights|Texture Group|Take 001|Layer 001.002
+    7400096: Hanging lights|Utencils|Take 001|Layer 001
+    7400098: Hanging lights|Wall shelves|Take 001|Layer 001
+    7400100: Hanging lights|Walls|Take 001|Layer 001
+    7400102: Hanging lights|Walls|Take 001|Layer 001.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

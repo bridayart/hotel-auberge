@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 2ef23536d755d4cf09ffa1e5bbc2577b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: LTable
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: L Table
+    7400000: L Table|Alcove Ceeling|Take 001|Layer 001
+    7400002: L Table|Bowls|Take 001|Layer 001
+    7400004: L Table|Box outline|Take 001|Layer 001
+    7400006: L Table|Box outline|Take 001|Layer 001.001
+    7400008: L Table|Box outline|Take 001|Layer 001.002
+    7400010: L Table|Camera.001|Take 001|Layer 001
+    7400012: L Table|Camera.001|Take 001|Layer 001.001
+    7400014: L Table|Camera.001|Take 001|Layer 001.002
+    7400016: L Table|Camera.001|Take 001|Layer 001.003
+    7400018: L Table|Camera.001|Take 001|Layer 001.004
+    7400020: L Table|Camera.002|Take 001|Layer 001
+    7400022: L Table|CameraAction
+    7400024: L Table|Camera|Take 001|Layer 001
+    7400026: L Table|Camera|Take 001|Layer 001.001
+    7400028: L Table|Ceeling|Take 001|Layer 001
+    7400030: L Table|Cube.001Action
+    7400032: L Table|Cube.001Action.002
+    7400034: L Table|Directional Light|Take 001|Layer 001
+    7400036: L Table|Directional Light|Take 001|Layer 001.001
+    7400038: L Table|Directional Light|Take 001|Layer 001.002
+    7400040: L Table|Directional Light|Take 001|Layer 001.003
+    7400042: L Table|Directional Light|Take 001|Layer 001.004
+    7400044: L Table|Directional Light|Take 001|Layer 001.005
+    7400046: L Table|Directional Light|Take 001|Layer 001.006
+    7400048: L Table|Directional Light|Take 001|Layer 001.007
+    7400050: L Table|Door.002Action
+    7400052: L Table|Door.1Action
+    7400054: L Table|Floor|Take 001|Layer 001
+    7400056: L Table|Floor|Take 001|Layer 001.001
+    7400058: L Table|Fridge|Take 001|Layer 001
+    7400060: L Table|Hanging lights|Take 001|Layer 001
+    7400062: L Table|Hanging shelf|Take 001|Layer 001
+    7400064: L Table|L Table|Take 001|Layer 001
+    7400066: L Table|MeshAction
+    7400068: L Table|MeshAction.001
+    7400070: L Table|Mesh|Take 001|Layer 001
+    7400072: L Table|Mesh|Take 001|Layer 001.001
+    7400074: L Table|Mesh|Take 001|Layer 001.002
+    7400076: L Table|Mesh|Take 001|Layer 001.003
+    7400078: L Table|Mesh|Take 001|Layer 001.004
+    7400080: L Table|Oven|Take 001|Layer 001
+    7400082: L Table|Plates|Take 001|Layer 001
+    7400084: L Table|Pots and Pans|Take 001|Layer 001
+    7400086: L Table|Stove/Ovens|Take 001|Layer 001
+    7400088: L Table|Table.001|Take 001|Layer 001
+    7400090: L Table|Texture Group|Take 001|Layer 001
+    7400092: L Table|Texture Group|Take 001|Layer 001.001
+    7400094: L Table|Texture Group|Take 001|Layer 001.002
+    7400096: L Table|Utencils|Take 001|Layer 001
+    7400098: L Table|Wall shelves|Take 001|Layer 001
+    7400100: L Table|Walls|Take 001|Layer 001
+    7400102: L Table|Walls|Take 001|Layer 001.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
